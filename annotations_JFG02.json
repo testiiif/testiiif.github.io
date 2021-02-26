@@ -1,62 +1,73 @@
 {
 "@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/b5fb3b50777211ebb1b4f75bad4677b6/annotations.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/14a5278076b811ebad3a59439fa214a8/annotations.json",
 "@type": "sc:AnnotationList",
 "resources": [
 {
 "@type": "oa:Annotation",
-"@id": "e7887930777211eba164f7efda829bac",
+"@id": "38c9c76076b811ebb5a361ccbcdf5feb",
 "motivation": "sc:painting",
 "resource": {
 "@type": "cnt:ContentAsText",
 "format": "text/plain",
-"chars": "Um 1800 führte und illustrierte Geissinger eine ganze Reihe von Handschriften."
+"chars": "Freiburg, Universitätsbibliothek, Hs. 498, fol. 18v-19r: Joseph Felizian Geissingers sogenanntes Münsterbuch aus dem Jahr 1787"
 },
-"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=1514.5924521849392,1528.3295381561293,1890.9090909090908,1100.909090909091"
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614181634927geissinger17874041.ptif/canvas/c0#xywh=-786.8624584336578,-142.88888888888866,4718.724916867331,2857.7777777777774"
 },
 {
 "@type": "oa:Annotation",
-"@id": "597c92a0777411eba9b39956280e29bf",
+"@id": "6590075076b811ebb5a361ccbcdf5feb",
 "motivation": "sc:painting",
 "resource": {
 "@type": "cnt:ContentAsText",
 "format": "text/plain",
-"chars": "Er interessierte sich unter anderem  für Geschichte, sakrale Kunst und Heiligenverehrung. In seiner Kaplanei Buchholz führte er außerdem administrative Verzeichnisse und eine Art Tagebuch über lokale Ereignisse."
+"chars": "Bekannt ist Geissingers Darstellung des Freiburger Münsters "
 },
-"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=155.40791482120704,198.29815496000325,3781.8181818181815,2201.818181818182"
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614181634927geissinger17874041.ptif/canvas/c0#xywh=1482.5493062722192,533.9532163742675,2359.3624584336653,1428.8888888888887"
 },
 {
 "@type": "oa:Annotation",
-"@id": "50137950777311eba164f7efda829bac",
+"@id": "b33afe6076b811ebb5a361ccbcdf5feb",
 "motivation": "sc:painting",
 "resource": {
 "@type": "cnt:ContentAsText",
 "format": "text/plain",
-"chars": "Unter seinen Schriften finden sich auch Konzeptbücher wie die Handschrift 498 der Freiburger Universitätsbibliothek. Sie besteht aus mehreren zusammengebundenen Arbeitsheften im Quartformat, in denen Geissinger Inschriften sammelte und Skizzen von Kunstwerken aus dem Freiburger Münster anfertigte."
+"chars": "Unten im Bild sieht man zwei Personen: Der in schwarz gekleidete Mann scheint seinem Begleiter etwas an der Münsterfassade zu zeigen. Hier hat sich Geissinger vielleicht selbst dargestellt bzw. das Erzähler-Ich des Münsterbuchs."
 },
-"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=-166.5961889748037,1450.029506460144,1890.9090909090908,1100.909090909091"
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614181634927geissinger17874041.ptif/canvas/c0#xywh=1479.134037428566,1079.5557848870524,2369.1421991940124,1428.888888888889"
 },
 {
 "@type": "oa:Annotation",
-"@id": "96197fd0777311eba164f7efda829bac",
+"@id": "0836ab8076b911ebb5a361ccbcdf5feb",
 "motivation": "sc:painting",
 "resource": {
 "@type": "cnt:ContentAsText",
 "format": "text/plain",
-"chars": "Geissinger interessierte sich auch für Heraldik und Genealogie. Er hat mehrere großformatige Stammbäume hergestellt."
+"chars": "Das Münsterbuch ist nämlich als Art virtuellen Rundgang durch das Münster gestaltet, bei dem einem \"Freund\" die  Altäre, Grabmäler und andere Kunstwerke mit Inschriften präsentiert und erläutert werden."
 },
-"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=2075.44926557065,262.52950646014136,1890.9090909090908,1100.909090909091"
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614181634927geissinger17874041.ptif/canvas/c0#xywh=1737.9632623199689,1648.0911384224066,1460.5746585021197,880.909090909091"
 },
 {
 "@type": "oa:Annotation",
-"@id": "12d77080777511eba9b39956280e29bf",
+"@id": "adf84b5076b911ebb5a361ccbcdf5feb",
 "motivation": "sc:painting",
 "resource": {
 "@type": "cnt:ContentAsText",
 "format": "text/plain",
-"chars": "Bekannt ist Geissinger für sein sogenanntes Münsterbuch."
+"chars": "\"So vihl nun, mein Freund, von dem Sacrario Friburgense oder dem Heiligtum der Stadt Freyburg. Gehen wir nun jezt näher zu dem grosen Portahl zu, so sehen wir noch ausen an der grosen breithen steinernen Säule brod, wecken etc. mit folgender zahl mess und quadrat eingehauen auf linker seithe.\""
 },
-"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=993.6310837524684,-40.87958444895017,1890.9090909090908,1100.909090909091"
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614181634927geissinger17874041.ptif/canvas/c0#xywh=77.81605990852783,737.2973354899235,1460.5746585021197,880.909090909091"
+},
+{
+"@type": "oa:Annotation",
+"@id": "5ae16e5076ba11ebb5a361ccbcdf5feb",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Die inschriftlichen Jahreszahlen vom Münsterportal gibt Geissinger wieder, aber von den bildlichen Maßeinheiten ist nur die Elle ausgeführt - ein Hinweis darauf, dass das Münsterbuch nicht fertiggestellt wurde."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614181634927geissinger17874041.ptif/canvas/c0#xywh=-19.62388356768421,1294.797335489919,1890.9090909090905,1140.4545454545453"
 }
 ]
 }
