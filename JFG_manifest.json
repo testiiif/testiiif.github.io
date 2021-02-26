@@ -58,9 +58,8 @@
                      "@type":"sc:AnnotationList"
                   }
                ]
-            }
-         ]
-      },
+             },
+
       {
                "@id":"https://storiiies-images.cogapp.com/iiif/2/1614181634927geissinger17874041.ptif/canvas/c0",
                "label":{
@@ -96,8 +95,8 @@
                      "@type":"sc:AnnotationList"
                   }
                ]
-            },
-            {
+             },
+          {
              "@id":"https://storiiies-images.cogapp.com/iiif/2/1614263318900Bild005bearb.ptif/canvas/c0",
              "label":{
                 "@value":"JFG: Kaplaneibuch Buchholz\npieckh\n\nPfarrarchiv Buchholz, Kaplaneibuch von 1793\n\n",
@@ -132,6 +131,8 @@
                    "@type":"sc:AnnotationList"
                 }
              ]
-          }
-   ]
+           }
+  ]
+}
+]
 }
