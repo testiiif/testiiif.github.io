@@ -1,0 +1,62 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/b5fb3b50777211ebb1b4f75bad4677b6/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "e7887930777211eba164f7efda829bac",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Um 1800 führte und illustrierte Geissinger eine ganze Reihe von Handschriften."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=1514.5924521849392,1528.3295381561293,1890.9090909090908,1100.909090909091"
+},
+{
+"@type": "oa:Annotation",
+"@id": "597c92a0777411eba9b39956280e29bf",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Er interessierte sich unter anderem  für Geschichte, sakrale Kunst und Heiligenverehrung. In seiner Kaplanei Buchholz führte er außerdem administrative Verzeichnisse und eine Art Tagebuch über lokale Ereignisse."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=155.40791482120704,198.29815496000325,3781.8181818181815,2201.818181818182"
+},
+{
+"@type": "oa:Annotation",
+"@id": "50137950777311eba164f7efda829bac",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Unter seinen Schriften finden sich auch Konzeptbücher wie die Handschrift 498 der Freiburger Universitätsbibliothek. Sie besteht aus mehreren zusammengebundenen Arbeitsheften im Quartformat, in denen Geissinger Inschriften sammelte und Skizzen von Kunstwerken aus dem Freiburger Münster anfertigte."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=-166.5961889748037,1450.029506460144,1890.9090909090908,1100.909090909091"
+},
+{
+"@type": "oa:Annotation",
+"@id": "96197fd0777311eba164f7efda829bac",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Geissinger interessierte sich auch für Heraldik und Genealogie. Er hat mehrere großformatige Stammbäume hergestellt."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=2075.44926557065,262.52950646014136,1890.9090909090908,1100.909090909091"
+},
+{
+"@type": "oa:Annotation",
+"@id": "12d77080777511eba9b39956280e29bf",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Bekannt ist Geissinger für sein sogenanntes Münsterbuch."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614261900096geissingermedley.ptif/canvas/c0#xywh=993.6310837524684,-40.87958444895017,1890.9090909090908,1100.909090909091"
+}
+]
+}

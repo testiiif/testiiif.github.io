@@ -1,0 +1,62 @@
+{
+"@context": "http://iiif.io/api/presentation/2/context.json",
+"@id": "https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/devannotation/05810580777611ebb0b48509d3071e77/annotations.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@type": "oa:Annotation",
+"@id": "ae82b520777611eb9a3dffed0e9636eb",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Neben  aufwendig konzipierten und illuminierten Prachthandschriften wie dem Münsterbuch führte Geissinger auch gewissenhaft Buch in seiner Gemeinde: Das Buchholzer Kaplaneibuch legte er im Jahr 1793 an. Es enthält verschiedene Verzeichnisse über das Gemeindeleben und eine Art Tagebuch oder Ortschronik vom 24. Juni 1784 bis 1794."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614263318900Bild005bearb.ptif/canvas/c0#xywh=-2045.70809248555,-4.89608353859694e-13,6296.4161849711,3404.000000000001"
+},
+{
+"@type": "oa:Annotation",
+"@id": "cc81b170777611eb9a3dffed0e9636eb",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Zu Beginn des Kaplaneibuchs zeichnete Geissinger sein eigenes Haus."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614263318900Bild005bearb.ptif/canvas/c0#xywh=-383.7634186622627,445.1763005780335,2923.3360858794385,1702.0000000000002"
+},
+{
+"@type": "oa:Annotation",
+"@id": "f1586340777611eb9a3dffed0e9636eb",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Typisch für Geissingers Stil sind kleine Details wie dieser Vogelscharm."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614263318900Bild005bearb.ptif/canvas/c0#xywh=561.4223781998357,146.91254410329668,1890.9090909090908,1100.909090909091"
+},
+{
+"@type": "oa:Annotation",
+"@id": "1f884550777711eb9a3dffed0e9636eb",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Nachträglich vermerkte er Baumaßnahmen am Kaplaneihaus: \"den 8ten august ist das Taglicht bey der Hausthir gemacht worden 1785.\""
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614263318900Bild005bearb.ptif/canvas/c0#xywh=313.6951054725616,-375.8147286239756,1890.9090909090912,1100.9090909090912"
+},
+{
+"@type": "oa:Annotation",
+"@id": "886f6f30777711eb9a3dffed0e9636eb",
+"motivation": "sc:painting",
+"resource": {
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Das Buchholzer Kaplaneibuch wird derzeit, gefördert durch die Erzbischof-Hermann-Stiftung, von der Universitätsbibliothek  Freiburg digitalisiert und im Anschluss online gestellt (Projektabschluss voraussichtlich 2021)."
+},
+"on": "https://storiiies-images.cogapp.com/iiif/2/1614263318900Bild005bearb.ptif/canvas/c0#xywh=-2395.508991650613,-97.43397045068745,6996.01798330122,3782.2222222222217"
+}
+]
+}
