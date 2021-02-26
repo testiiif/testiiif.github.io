@@ -127,7 +127,7 @@
              ],
              "otherContent":[
                 {
-                   "@id":"https://testiiif.github.io/annotations_JFG01.json",
+                   "@id":"https://testiiif.github.io/annotations_JFG03.json",
                    "@type":"sc:AnnotationList"
                 }
              ]
