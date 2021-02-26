@@ -54,7 +54,7 @@
                ],
                "otherContent":[
                   {
-                     "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/b5fb3b50777211ebb1b4f75bad4677b6/annotations.json",
+                     "@id":"https://testiiif.github.io/annotations_JFG01.json",
                      "@type":"sc:AnnotationList"
                   }
                ]
@@ -91,7 +91,7 @@
                ],
                "otherContent":[
                   {
-                     "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/14a5278076b811ebad3a59439fa214a8/annotations.json",
+                     "@id":"https://testiiif.github.io/annotations_JFG02.json",
                      "@type":"sc:AnnotationList"
                   }
                ]
@@ -127,7 +127,7 @@
              ],
              "otherContent":[
                 {
-                   "@id":"https://jqz7t23pp9.execute-api.us-east-1.amazonaws.com/dev/annotation/05810580777611ebb0b48509d3071e77/annotations.json",
+                   "@id":"https://testiiif.github.io/annotations_JFG01.json",
                    "@type":"sc:AnnotationList"
                 }
              ]
